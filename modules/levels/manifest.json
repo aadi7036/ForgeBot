@@ -1,0 +1,8 @@
+{
+  "name": "levels",
+  "description": "XP and leveling system with leaderboard and rank commands",
+  "version": "1.0.0",
+  "author": "ForgeBot Contributors",
+  "permissions": [],
+  "enabled_by_default": true
+}
