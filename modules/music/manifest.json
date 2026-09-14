@@ -1,0 +1,8 @@
+{
+  "name": "music",
+  "description": "Queue, play, and manage music with discord-player",
+  "version": "1.0.0",
+  "author": "ForgeBot Contributors",
+  "permissions": ["CONNECT", "SPEAK"],
+  "enabled_by_default": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "stats",
+  "description": "Look up game stats from multiple providers (extensible)",
+  "version": "1.0.0",
+  "author": "ForgeBot Contributors",
+  "permissions": [],
+  "enabled_by_default": true
+}
