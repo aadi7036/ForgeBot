@@ -1,0 +1,8 @@
+{
+  "name": "moderation",
+  "description": "Kick, ban, mute, and warn users with audit logging",
+  "version": "1.0.0",
+  "author": "ForgeBot Contributors",
+  "permissions": ["KICK_MEMBERS", "BAN_MEMBERS", "MANAGE_MESSAGES"],
+  "enabled_by_default": true
+}
